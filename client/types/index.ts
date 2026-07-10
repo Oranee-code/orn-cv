@@ -68,7 +68,7 @@ export interface ProfileData {
   sidebarCertifications: CertificationItem[];
   links: LinkItem[];
   interests: string[];
-  about: string;
+  about: string[];
   experience: ExperienceItem[];
   projects: ProjectItem[];
   mainEducation: EducationItem[];
